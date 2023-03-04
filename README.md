@@ -1,1 +1,1 @@
-# This is a repository with my solutions on various coding platforms
+# This is a repository with my solutions from various coding platforms
